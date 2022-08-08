@@ -1,4 +1,4 @@
-package herenciaconstructores;
+package ar.charlycimino.ejemplos.constructorsuper;
 
 /**
  *

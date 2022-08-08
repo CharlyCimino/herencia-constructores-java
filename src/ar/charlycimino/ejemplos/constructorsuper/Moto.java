@@ -1,4 +1,4 @@
-package herenciaconstructores;
+package ar.charlycimino.ejemplos.constructorsuper;
 
 /**
  *
@@ -11,6 +11,7 @@ public class Moto extends Vehiculo {
     private int anchoDeManubrio;
 
     // TAREA: Implementá el constructor de 'Moto' siguiendo las pautas de 'Auto'.
+    
     public void hacerWheelie() {
         System.out.println("Haciendo la wheelie...");
     }
